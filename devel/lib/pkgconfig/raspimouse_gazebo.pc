@@ -1,0 +1,8 @@
+prefix=/home/roblab123/catkin_ws/devel
+
+Name: raspimouse_gazebo
+Description: Description of raspimouse_gazebo
+Version: 0.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

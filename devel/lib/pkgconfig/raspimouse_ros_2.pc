@@ -1,0 +1,8 @@
+prefix=/home/roblab123/catkin_ws/devel
+
+Name: raspimouse_ros_2
+Description: Description of raspimouse_ros_2
+Version: 0.0.1
+Cflags: -I/home/roblab123/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs std_srvs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/roblab123/catkin_ws/devel
+
+Name: raspimouse_fake
+Description: Description of raspimouse_fake
+Version: 0.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

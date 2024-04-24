@@ -1,0 +1,8 @@
+prefix=/home/roblab123/catkin_ws/install
+
+Name: raspberrypimouse_controlbarrierfunction
+Description: Description of raspberrypimouse_controlbarrierfunction
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
